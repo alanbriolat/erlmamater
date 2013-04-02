@@ -1,0 +1,3 @@
+[submodule "skerl"]
+	path = skerl
+	url = https://github.com/basho/skerl.git
